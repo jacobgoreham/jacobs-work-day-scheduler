@@ -26,3 +26,6 @@ THEN the saved events persist
 
 To use this project simply click which hour you have an activity, project, meeting, etc. 
 This project will display the current time and will show you 9am-5pm in future/past/present.
+
+Deployed project: 
+https://jacobgoreham.github.io/jacobs-work-day-scheduler/
